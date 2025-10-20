@@ -1,5 +1,5 @@
 {
-    "name": "antomtest/magento2-core",
+    "name": "aanntom/magento2-core",
     "description": "Antom core module for magento 2",
     "version": "0.1.0",
     "require": {
