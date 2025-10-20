@@ -1,7 +1,7 @@
 {
     "name": "aanntom/magento2-core",
     "description": "Test module for magento 2",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "require": {
         "antom/global-open-sdk-php": "^1.4.7",
         "magento/framework": "^102.0|^103.0",
