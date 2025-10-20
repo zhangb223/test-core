@@ -29,5 +29,11 @@
         "psr-4": {
             "Antom\\Core\\": ""
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://repo.magento.com/"
+        }
+    ]
 }
